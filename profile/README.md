@@ -14,6 +14,14 @@
 | 기여 | iOS 앱 개발 <br> API 명세서 작성 <br> API 오류 해결 <br> 팀장 | DevOps <br> DBA <br> 백엔드개발  | 백엔드개발 | 백엔드개발<br> 데이터 조사 |
 | 퍼센트 | 35% | 35% | 20% | 10% |
 
+| 박현규 | 문형일 |
+|:------:|:------:|
+| <img src="https://github.com/user-attachments/assets/7207c766-71ab-46e8-8b0b-612be523cf3f" width="100%"/> | <img src="https://github.com/user-attachments/assets/0f286c36-2059-49ff-8332-e7fc746cee34" width="100%"/> |
+
+| 배용빈 | 뚜먁튜 |
+|:------:|:------:|
+| <img src="https://github.com/user-attachments/assets/3e0b3b62-e24f-4b47-9eaf-c3e3a01e5b0b" width="100%"/> | <img src="https://github.com/user-attachments/assets/5f2a91b4-4602-41fe-843c-02b6a1e2e7d5" width="100%"/> |
+
 ## 📱 소개
 **지도 기반 탐색**
   <br>원하는 좌표에서 반경 내의 건물, 인프라 검색​<br><br>
